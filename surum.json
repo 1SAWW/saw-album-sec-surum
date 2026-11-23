@@ -1,6 +1,6 @@
 {
-  "version": "4.1.0",
-  "notes": "Akilli Klasor Bulucu, daha hizli (cok cekirdek + GPU), Album Tasarimci gelistirmeleri, Ayarlar > Gelistirici (makine kodu + QR), online lisans ve guncellestirme denetleme eklendi.",
-  "win": "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.1.0/SAWAlbumSelect.exe",
-  "mac": "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.1.0/SAW-Album-Sec-v4.1.0-mac.tar.gz"
+  "version": "4.1.1",
+  "notes": "Arayuz V3 stiline dondu; cok daha hizli klasor bulma (yalnizca klasor, dosya taranmaz; Windows ve Mac); (c) Selcuk Akdeniz rozeti.",
+  "win": "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.1.1/SAWAlbumSelect.exe",
+  "mac": "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.1.1/SAW-Album-Sec-v4.1.1-mac.tar.gz"
 }
