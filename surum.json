@@ -1,6 +1,6 @@
-﻿{
-    "version":  "4.1.2",
-    "notes":  "Akilli Klasor Bulucu artik Everything kadar hizli (acilista indeks, yazdikca aninda); ilk kurulumda telefonla QR okutup online otomatik lisans; V3 arayuz.",
-    "win":  "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.1.2/SAWAlbumSelect.exe",
-    "mac":  "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.1.2/SAW-Album-Sec-v4.1.2-mac.tar.gz"
+{
+  "version": "4.1.3",
+  "notes": "Akıllı Klasör Bulucu tarama sonucunu diskte saklar ve sonraki açılışlarda yeniden kullanır. Tarama ilerlemesi ve bulunan klasör sayısı gösterilir. İlk kurulumda çevrimiçi QR etkinleştirmesi kullanılabilir.",
+  "win": "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.1.3/SAW-Album-Sec-v4.1.3-Setup.exe",
+  "mac": "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.1.3/SAW-Album-Sec-v4.1.3-mac.tar.gz"
 }
