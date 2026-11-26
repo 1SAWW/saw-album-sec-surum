@@ -1,6 +1,6 @@
 {
-  "version": "4.1.5",
-  "notes": "Otomatik albüm dizilimi seçilen sayfa ölçüsünü, DPI değerini ve baskı ayarlarını korur. Sekiz yeni hazır ölçü eklendi: 35×65, 30×80, 30×76, 30×60, 30×50, 25×70, 25×60 ve 25×52 cm.",
-  "win": "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.1.5/SAW-Album-Sec-v4.1.5-Setup.exe",
-  "mac": "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.1.5/SAW-Album-Sec-v4.1.5-mac.tar.gz"
+  "version": "4.2.0",
+  "notes": "Online lisans etkinleştirme güncellemesi\n\nKendi güvencemle, aşılamayacağını düşündüğüm bir QR sistemi oluşturmak istedim. QR talebi satıcı tarafından onaylanır. İmzalı lisans yalnızca talebi oluşturan cihazda doğrulanır ve kaydedilir.\n\nMakine koduyla çevrimdışı lisans alma seçeneği de kullanılabilir.",
+  "win": "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.2.0/SAWAlbumSelect.exe",
+  "mac": "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.2.0/SAW-Album-Sec-v4.2.0-mac.tar.gz"
 }
