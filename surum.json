@@ -1,6 +1,6 @@
 {
-  "version": "4.2.0",
-  "notes": "Online lisans etkinleştirme güncellemesi\n\nKendi güvencemle, aşılamayacağını düşündüğüm bir QR sistemi oluşturmak istedim. QR talebi satıcı tarafından onaylanır. İmzalı lisans yalnızca talebi oluşturan cihazda doğrulanır ve kaydedilir.\n\nMakine koduyla çevrimdışı lisans alma seçeneği de kullanılabilir.",
-  "win": "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.2.0/SAWAlbumSelect.exe",
-  "mac": "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.2.0/SAW-Album-Sec-v4.2.0-mac.tar.gz"
+  "version": "4.2.1",
+  "notes": "Önizleme ve performans güncellemesi\n\n- Kontrol ekranında eşleşen fotoğrafların küçük resimleri kodların yanında gösterilir.\n- Renk Stüdyosu, renk ayarlarını fotoğrafın tam piksel boyutunda gösterir.\n- Albüm Tasarla’da küçük resimler önce yüklenir. Benzerlik ve netlik analizi arka planda tamamlanır.\n- Büyük arşivlerde küçük resimler ihtiyaç oldukça yüklenir. Eski önizleme işleri seçim değiştiğinde iptal edilir.",
+  "win": "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.2.1/SAW-Album-Sec-v4.2.1-Windows-Setup.exe",
+  "mac": "https://github.com/1SAWW/saw-album-sec-surum/releases/download/v4.2.1/SAW-Album-Sec-v4.2.1-mac.tar.gz"
 }
